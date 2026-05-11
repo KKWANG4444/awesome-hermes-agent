@@ -14,6 +14,10 @@ Hermes Agent is the only agent with a built-in learning loop — it creates skil
 
 This list tracks the growing ecosystem around it.
 
+> 🇨🇳 **国内开发者**：运行 Hermes Agent 需要直连全球 API？ **[www.aifast.club](https://www.aifast.club)** — 一个 Key 接入 Claude 4.7 / GPT 5.5 / DeepSeek V4 等 572 个模型，国内直连，无需代理。
+
+
+
 > Ecosystem status (last reviewed: 2026-04-21)
 > - Hermes Agent: [v0.10.0 (v2026.4.16)](https://github.com/NousResearch/hermes-agent/releases/tag/v2026.4.16)
 > - Core repo: [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (23k+ stars)
