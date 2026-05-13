@@ -312,3 +312,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 This list is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate attribution.
 
 All resources included in this list have their own license terms.
+
+
+---
+*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
